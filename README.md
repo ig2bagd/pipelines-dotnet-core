@@ -1,3 +1,5 @@
+[![Build status](https://dev.azure.com/shtpham/pipelines-dotnet-core/_apis/build/status/pipelines-dotnet-core-ASP.NET%20Core-CI)](https://dev.azure.com/shtpham/pipelines-dotnet-core/_build/latest?definitionId=1)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
